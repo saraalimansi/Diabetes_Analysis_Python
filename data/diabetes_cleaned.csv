@@ -1,0 +1,769 @@
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome,BMI_Category,Glucose_to_BMI,Glucose_Level,Age_Category
+6,148,72,35,79,33.6,0.627,50,Diabetes,Obese,4.404761904761904,High,Middle-Aged
+1,85,66,29,79,26.6,0.351,31,No Diabetes,Overweight,3.195488721804511,Low,Middle-Aged
+8,183,64,20,79,23.3,0.672,32,Diabetes,Normal,7.854077253218884,High,Middle-Aged
+1,89,66,23,94,28.1,0.167,21,No Diabetes,Overweight,3.167259786476868,Low,Young
+3,137,40,35,168,43.1,2.288,33,Diabetes,Obese,3.178654292343387,Medium,Middle-Aged
+5,116,74,20,79,25.6,0.201,30,No Diabetes,Overweight,4.53125,Medium,Young
+3,78,50,32,88,31.0,0.248,26,Diabetes,Obese,2.5161290322580645,Low,Young
+10,115,69,20,79,35.3,0.134,29,No Diabetes,Obese,3.257790368271955,Medium,Young
+2,197,70,45,543,30.5,0.158,53,Diabetes,Obese,6.459016393442623,High,Old
+8,125,96,20,79,31.99,0.232,54,Diabetes,Obese,3.9074710847139733,Medium,Old
+4,110,92,20,79,37.6,0.191,30,No Diabetes,Obese,2.9255319148936167,Medium,Young
+10,168,74,20,79,38.0,0.537,34,Diabetes,Obese,4.421052631578948,High,Middle-Aged
+10,139,80,20,79,27.1,1.441,57,No Diabetes,Overweight,5.1291512915129145,Medium,Old
+1,189,60,23,846,30.1,0.398,59,Diabetes,Obese,6.27906976744186,High,Old
+5,166,72,19,175,25.8,0.587,51,Diabetes,Overweight,6.434108527131783,High,Old
+7,100,69,20,79,30.0,0.484,32,Diabetes,Obese,3.3333333333333335,Low,Middle-Aged
+3,118,84,47,230,45.8,0.551,31,Diabetes,Obese,2.576419213973799,Medium,Middle-Aged
+7,107,74,20,79,29.6,0.254,31,Diabetes,Overweight,3.614864864864865,Medium,Middle-Aged
+1,103,30,38,83,43.3,0.183,33,No Diabetes,Obese,2.3787528868360277,Medium,Middle-Aged
+1,115,70,30,96,34.6,0.529,32,Diabetes,Obese,3.3236994219653178,Medium,Middle-Aged
+3,126,88,41,235,39.3,0.704,27,No Diabetes,Obese,3.2061068702290076,Medium,Young
+8,99,84,20,79,35.4,0.388,50,No Diabetes,Obese,2.7966101694915255,Low,Middle-Aged
+7,196,90,20,79,39.8,0.451,41,Diabetes,Obese,4.92462311557789,High,Middle-Aged
+9,119,80,35,79,29.0,0.263,29,Diabetes,Overweight,4.103448275862069,Medium,Young
+11,143,94,33,146,36.6,0.254,51,Diabetes,Obese,3.9071038251366117,High,Old
+10,125,70,26,115,31.1,0.205,41,Diabetes,Obese,4.019292604501608,Medium,Middle-Aged
+7,147,76,20,79,39.4,0.257,43,Diabetes,Obese,3.730964467005076,High,Middle-Aged
+1,97,66,15,140,23.2,0.487,22,No Diabetes,Normal,4.181034482758621,Low,Young
+13,145,82,19,110,22.2,0.245,57,No Diabetes,Normal,6.531531531531532,High,Old
+5,117,92,20,79,34.1,0.337,38,No Diabetes,Obese,3.43108504398827,Medium,Middle-Aged
+5,109,75,26,79,36.0,0.546,60,No Diabetes,Obese,3.0277777777777777,Medium,Old
+3,158,76,36,245,31.6,0.851,28,Diabetes,Obese,5.0,High,Young
+3,88,58,11,54,24.8,0.267,22,No Diabetes,Normal,3.5483870967741935,Low,Young
+6,92,92,20,79,19.9,0.188,28,No Diabetes,Normal,4.623115577889448,Low,Young
+10,122,78,31,79,27.6,0.512,45,No Diabetes,Overweight,4.420289855072464,Medium,Middle-Aged
+4,103,60,33,192,24.0,0.966,33,No Diabetes,Normal,4.291666666666667,Medium,Middle-Aged
+11,138,76,20,79,33.2,0.42,35,No Diabetes,Obese,4.156626506024096,Medium,Middle-Aged
+9,102,76,37,79,32.9,0.665,46,Diabetes,Obese,3.1003039513677813,Medium,Middle-Aged
+2,90,68,42,79,38.2,0.503,27,Diabetes,Obese,2.3560209424083767,Low,Young
+4,111,72,47,207,37.1,1.39,56,Diabetes,Obese,2.9919137466307277,Medium,Old
+3,180,64,25,70,34.0,0.271,26,No Diabetes,Obese,5.294117647058823,High,Young
+7,133,84,20,79,40.2,0.696,37,No Diabetes,Obese,3.3084577114427858,Medium,Middle-Aged
+7,106,92,18,79,22.7,0.235,48,No Diabetes,Normal,4.669603524229075,Medium,Middle-Aged
+9,171,110,24,240,45.4,0.721,54,Diabetes,Obese,3.7665198237885464,High,Old
+7,159,64,20,79,27.4,0.294,40,No Diabetes,Overweight,5.802919708029197,High,Middle-Aged
+3,180,66,39,79,42.0,1.893,25,Diabetes,Obese,4.285714285714286,High,Young
+1,146,56,20,79,29.7,0.564,29,No Diabetes,Overweight,4.915824915824916,High,Young
+2,71,70,27,79,28.0,0.586,22,No Diabetes,Overweight,2.5357142857142856,Low,Young
+7,103,66,32,79,39.1,0.344,31,Diabetes,Obese,2.6342710997442453,Medium,Middle-Aged
+7,105,69,20,79,31.99,0.305,24,No Diabetes,Obese,3.2822757111597376,Medium,Young
+1,103,80,11,82,19.4,0.491,22,No Diabetes,Normal,5.309278350515465,Medium,Young
+1,101,50,15,36,24.2,0.526,26,No Diabetes,Normal,4.1735537190082646,Medium,Young
+5,88,66,21,23,24.4,0.342,30,No Diabetes,Normal,3.6065573770491803,Low,Young
+8,176,90,34,300,33.7,0.467,58,Diabetes,Obese,5.222551928783382,High,Old
+7,150,66,42,342,34.7,0.718,42,No Diabetes,Obese,4.322766570605187,High,Middle-Aged
+1,73,50,10,79,23.0,0.248,21,No Diabetes,Normal,3.1739130434782608,Low,Young
+7,187,68,39,304,37.7,0.254,41,Diabetes,Obese,4.960212201591512,High,Middle-Aged
+3,100,88,60,110,46.8,0.962,31,No Diabetes,Obese,2.1367521367521367,Low,Middle-Aged
+3,146,82,20,79,40.5,1.781,44,No Diabetes,Obese,3.6049382716049383,High,Middle-Aged
+3,105,64,41,142,41.5,0.173,22,No Diabetes,Obese,2.5301204819277108,Medium,Young
+2,84,69,20,79,31.99,0.304,21,No Diabetes,Obese,2.6258205689277903,Low,Young
+8,133,72,20,79,32.9,0.27,39,Diabetes,Obese,4.042553191489362,Medium,Middle-Aged
+5,44,62,20,79,25.0,0.587,36,No Diabetes,Overweight,1.76,Low,Middle-Aged
+2,141,58,34,128,25.4,0.699,24,No Diabetes,Overweight,5.551181102362205,High,Young
+7,114,66,20,79,32.8,0.258,42,Diabetes,Obese,3.4756097560975614,Medium,Middle-Aged
+5,99,74,27,79,29.0,0.203,32,No Diabetes,Overweight,3.413793103448276,Low,Middle-Aged
+3,109,88,30,79,32.5,0.855,38,Diabetes,Obese,3.353846153846154,Medium,Middle-Aged
+2,109,92,20,79,42.7,0.845,54,No Diabetes,Obese,2.552693208430913,Medium,Old
+1,95,66,13,38,19.6,0.334,25,No Diabetes,Normal,4.846938775510203,Low,Young
+4,146,85,27,100,28.9,0.189,27,No Diabetes,Overweight,5.051903114186851,High,Young
+2,100,66,20,90,32.9,0.867,28,Diabetes,Obese,3.0395136778115504,Low,Young
+5,139,64,35,140,28.6,0.411,26,No Diabetes,Overweight,4.86013986013986,Medium,Young
+13,126,90,20,79,43.4,0.583,42,Diabetes,Obese,2.903225806451613,Medium,Middle-Aged
+4,129,86,20,270,35.1,0.231,23,No Diabetes,Obese,3.675213675213675,Medium,Young
+1,79,75,30,79,32.0,0.396,22,No Diabetes,Obese,2.46875,Low,Young
+1,120,48,20,79,24.7,0.14,22,No Diabetes,Normal,4.858299595141701,Medium,Young
+7,62,78,20,79,32.6,0.391,41,No Diabetes,Obese,1.901840490797546,Low,Middle-Aged
+5,95,72,33,79,37.7,0.37,27,No Diabetes,Obese,2.5198938992042437,Low,Young
+3,131,69,20,79,43.2,0.27,26,Diabetes,Obese,3.032407407407407,Medium,Young
+2,112,66,22,79,25.0,0.307,24,No Diabetes,Overweight,4.48,Medium,Young
+3,113,44,13,79,22.4,0.14,22,No Diabetes,Normal,5.044642857142858,Medium,Young
+2,74,69,20,79,31.99,0.102,22,No Diabetes,Obese,2.313222882150672,Low,Young
+7,83,78,26,71,29.3,0.767,36,No Diabetes,Overweight,2.832764505119454,Low,Middle-Aged
+3,101,65,28,79,24.6,0.237,22,No Diabetes,Normal,4.105691056910569,Medium,Young
+5,137,108,20,79,48.8,0.227,37,Diabetes,Obese,2.807377049180328,Medium,Middle-Aged
+2,110,74,29,125,32.4,0.698,27,No Diabetes,Obese,3.3950617283950617,Medium,Young
+13,106,72,54,79,36.6,0.178,45,No Diabetes,Obese,2.8961748633879782,Medium,Middle-Aged
+2,100,68,25,71,38.5,0.324,26,No Diabetes,Obese,2.5974025974025974,Low,Young
+15,136,70,32,110,37.1,0.153,43,Diabetes,Obese,3.665768194070081,Medium,Middle-Aged
+1,107,68,19,79,26.5,0.165,24,No Diabetes,Overweight,4.037735849056604,Medium,Young
+1,80,55,20,79,19.1,0.258,21,No Diabetes,Normal,4.18848167539267,Low,Young
+4,123,80,15,176,32.0,0.443,34,No Diabetes,Obese,3.84375,Medium,Middle-Aged
+7,81,78,40,48,46.7,0.261,42,No Diabetes,Obese,1.734475374732334,Low,Middle-Aged
+4,134,72,20,79,23.8,0.277,60,Diabetes,Normal,5.630252100840336,Medium,Old
+2,142,82,18,64,24.7,0.761,21,No Diabetes,Normal,5.748987854251013,High,Young
+6,144,72,27,228,33.9,0.255,40,No Diabetes,Obese,4.247787610619469,High,Middle-Aged
+2,92,62,28,79,31.6,0.13,24,No Diabetes,Obese,2.911392405063291,Low,Young
+1,71,48,18,76,20.4,0.323,22,No Diabetes,Normal,3.480392156862745,Low,Young
+6,93,50,30,64,28.7,0.356,23,No Diabetes,Overweight,3.240418118466899,Low,Young
+1,122,90,51,220,49.7,0.325,31,Diabetes,Obese,2.4547283702213276,Medium,Middle-Aged
+1,163,72,20,79,39.0,1.222,33,Diabetes,Obese,4.17948717948718,High,Middle-Aged
+1,151,60,20,79,26.1,0.179,22,No Diabetes,Overweight,5.78544061302682,High,Young
+3,125,96,20,79,22.5,0.262,21,No Diabetes,Normal,5.555555555555555,Medium,Young
+1,81,72,18,40,26.6,0.283,24,No Diabetes,Overweight,3.045112781954887,Low,Young
+2,85,65,20,79,39.6,0.93,27,No Diabetes,Obese,2.146464646464646,Low,Young
+1,126,56,29,152,28.7,0.801,21,No Diabetes,Overweight,4.390243902439025,Medium,Young
+1,96,122,20,79,22.4,0.207,27,No Diabetes,Normal,4.285714285714286,Low,Young
+4,144,58,28,140,29.5,0.287,37,No Diabetes,Overweight,4.88135593220339,High,Middle-Aged
+3,83,58,31,18,34.3,0.336,25,No Diabetes,Obese,2.419825072886298,Low,Young
+3,95,85,25,36,37.4,0.247,24,Diabetes,Obese,2.5401069518716577,Low,Young
+3,171,72,33,135,33.3,0.199,24,Diabetes,Obese,5.135135135135136,High,Young
+8,155,62,26,495,34.0,0.543,46,Diabetes,Obese,4.5588235294117645,High,Middle-Aged
+1,89,76,34,37,31.2,0.192,23,No Diabetes,Obese,2.8525641025641026,Low,Young
+4,76,62,20,79,34.0,0.391,25,No Diabetes,Obese,2.235294117647059,Low,Young
+7,160,54,32,175,30.5,0.588,39,Diabetes,Obese,5.245901639344262,High,Middle-Aged
+4,146,92,20,79,31.2,0.539,61,Diabetes,Obese,4.67948717948718,High,Old
+5,124,74,20,79,34.0,0.22,38,Diabetes,Obese,3.6470588235294117,Medium,Middle-Aged
+5,78,48,20,79,33.7,0.654,25,No Diabetes,Obese,2.314540059347181,Low,Young
+4,97,60,23,79,28.2,0.443,22,No Diabetes,Overweight,3.4397163120567376,Low,Young
+4,99,76,15,51,23.2,0.223,21,No Diabetes,Normal,4.267241379310345,Low,Young
+3,162,76,56,100,53.2,0.759,25,Diabetes,Obese,3.045112781954887,High,Young
+6,111,64,39,79,34.2,0.26,24,No Diabetes,Obese,3.245614035087719,Medium,Young
+2,107,74,30,100,33.6,0.404,23,No Diabetes,Obese,3.1845238095238093,Medium,Young
+5,132,80,20,79,26.8,0.186,69,No Diabetes,Overweight,4.925373134328358,Medium,Old
+3,113,76,20,79,33.3,0.278,23,Diabetes,Obese,3.3933933933933935,Medium,Young
+1,88,30,42,99,55.0,0.496,26,Diabetes,Obese,1.6,Low,Young
+3,120,70,30,135,42.9,0.452,30,No Diabetes,Obese,2.797202797202797,Medium,Young
+1,118,58,36,94,33.3,0.261,23,No Diabetes,Obese,3.543543543543544,Medium,Young
+1,117,88,24,145,34.5,0.403,40,Diabetes,Obese,3.391304347826087,Medium,Middle-Aged
+3,105,84,20,79,27.9,0.741,62,Diabetes,Overweight,3.763440860215054,Medium,Old
+4,173,70,14,168,29.7,0.361,33,Diabetes,Overweight,5.824915824915825,High,Middle-Aged
+9,122,56,20,79,33.3,1.114,33,Diabetes,Obese,3.663663663663664,Medium,Middle-Aged
+3,170,64,37,225,34.5,0.356,30,Diabetes,Obese,4.927536231884058,High,Young
+8,84,74,31,79,38.3,0.457,39,No Diabetes,Obese,2.193211488250653,Low,Middle-Aged
+2,96,68,13,49,21.1,0.647,26,No Diabetes,Normal,4.549763033175355,Low,Young
+2,125,60,20,140,33.8,0.088,31,No Diabetes,Obese,3.6982248520710064,Medium,Middle-Aged
+3,100,70,26,50,30.8,0.597,21,No Diabetes,Obese,3.2467532467532467,Low,Young
+3,93,60,25,92,28.7,0.532,22,No Diabetes,Overweight,3.240418118466899,Low,Young
+3,129,80,20,79,31.2,0.703,29,No Diabetes,Obese,4.134615384615385,Medium,Young
+5,105,72,29,325,36.9,0.159,28,No Diabetes,Obese,2.845528455284553,Medium,Young
+3,128,78,20,79,21.1,0.268,55,No Diabetes,Normal,6.0663507109004735,Medium,Old
+5,106,82,30,79,39.5,0.286,38,No Diabetes,Obese,2.6835443037974684,Medium,Middle-Aged
+2,108,52,26,63,32.5,0.318,22,No Diabetes,Obese,3.3230769230769233,Medium,Young
+10,108,66,20,79,32.4,0.272,42,Diabetes,Obese,3.3333333333333335,Medium,Middle-Aged
+4,154,62,31,284,32.8,0.237,23,No Diabetes,Obese,4.695121951219512,High,Young
+3,102,75,23,79,31.99,0.572,21,No Diabetes,Obese,3.1884964051266023,Medium,Young
+9,57,80,37,79,32.8,0.096,41,No Diabetes,Obese,1.7378048780487807,Low,Middle-Aged
+2,106,64,35,119,30.5,1.4,34,No Diabetes,Obese,3.4754098360655736,Medium,Middle-Aged
+5,147,78,20,79,33.7,0.218,65,No Diabetes,Obese,4.362017804154302,High,Old
+2,90,70,17,79,27.3,0.085,22,No Diabetes,Overweight,3.2967032967032965,Low,Young
+1,136,74,50,204,37.4,0.399,24,No Diabetes,Obese,3.6363636363636367,Medium,Young
+4,114,65,20,79,21.9,0.432,37,No Diabetes,Normal,5.205479452054795,Medium,Middle-Aged
+9,156,86,28,155,34.3,1.189,42,Diabetes,Obese,4.548104956268222,High,Middle-Aged
+1,153,82,42,485,40.6,0.687,23,No Diabetes,Obese,3.768472906403941,High,Young
+8,188,78,20,79,47.9,0.137,43,Diabetes,Obese,3.9248434237995826,High,Middle-Aged
+7,152,88,44,79,50.0,0.337,36,Diabetes,Obese,3.04,High,Middle-Aged
+2,99,52,15,94,24.6,0.637,21,No Diabetes,Normal,4.024390243902439,Low,Young
+1,109,56,21,135,25.2,0.833,23,No Diabetes,Overweight,4.325396825396825,Medium,Young
+2,88,74,19,53,29.0,0.229,22,No Diabetes,Overweight,3.0344827586206895,Low,Young
+17,163,72,41,114,40.9,0.817,47,Diabetes,Obese,3.9853300733496333,High,Middle-Aged
+4,151,90,38,79,29.7,0.294,36,No Diabetes,Overweight,5.084175084175084,High,Middle-Aged
+7,102,74,40,105,37.2,0.204,45,No Diabetes,Obese,2.7419354838709675,Medium,Middle-Aged
+3,114,80,34,285,44.2,0.167,27,No Diabetes,Obese,2.5791855203619907,Medium,Young
+2,100,64,23,79,29.7,0.368,21,No Diabetes,Overweight,3.367003367003367,Low,Young
+3,131,88,20,79,31.6,0.743,32,Diabetes,Obese,4.1455696202531644,Medium,Middle-Aged
+6,104,74,18,156,29.9,0.722,41,Diabetes,Obese,3.4782608695652177,Medium,Middle-Aged
+3,148,66,25,79,32.5,0.256,22,No Diabetes,Obese,4.553846153846154,High,Young
+4,120,68,20,79,29.6,0.709,34,No Diabetes,Overweight,4.0540540540540535,Medium,Middle-Aged
+4,110,66,20,79,31.9,0.471,29,No Diabetes,Obese,3.4482758620689657,Medium,Young
+3,111,90,12,78,28.4,0.495,29,No Diabetes,Overweight,3.9084507042253525,Medium,Young
+6,102,82,20,79,30.8,0.18,36,Diabetes,Obese,3.311688311688312,Medium,Middle-Aged
+6,134,70,23,130,35.4,0.542,29,Diabetes,Obese,3.785310734463277,Medium,Young
+2,87,69,23,79,28.9,0.773,25,No Diabetes,Overweight,3.01038062283737,Low,Young
+1,79,60,42,48,43.5,0.678,23,No Diabetes,Obese,1.8160919540229885,Low,Young
+2,75,64,24,55,29.7,0.37,33,No Diabetes,Overweight,2.5252525252525255,Low,Middle-Aged
+8,179,72,42,130,32.7,0.719,36,Diabetes,Obese,5.474006116207951,High,Middle-Aged
+6,85,78,20,79,31.2,0.382,42,No Diabetes,Obese,2.7243589743589745,Low,Middle-Aged
+3,129,110,46,130,67.1,0.319,26,Diabetes,Obese,1.9225037257824145,Medium,Young
+5,143,78,20,79,45.0,0.19,47,No Diabetes,Obese,3.1777777777777776,High,Middle-Aged
+5,130,82,20,79,39.1,0.956,37,Diabetes,Obese,3.3248081841432224,Medium,Middle-Aged
+6,87,80,20,79,23.2,0.084,32,No Diabetes,Normal,3.75,Low,Middle-Aged
+3,119,64,18,92,34.9,0.725,23,No Diabetes,Obese,3.40974212034384,Medium,Young
+1,120,74,20,23,27.7,0.299,21,No Diabetes,Overweight,4.332129963898917,Medium,Young
+5,73,60,20,79,26.8,0.268,27,No Diabetes,Overweight,2.7238805970149254,Low,Young
+4,141,74,20,79,27.6,0.244,40,No Diabetes,Overweight,5.108695652173913,High,Middle-Aged
+7,194,68,28,79,35.9,0.745,41,Diabetes,Obese,5.403899721448468,High,Middle-Aged
+8,181,68,36,495,30.1,0.615,60,Diabetes,Obese,6.01328903654485,High,Old
+1,128,98,41,58,32.0,1.321,33,Diabetes,Obese,4.0,Medium,Middle-Aged
+8,109,76,39,114,27.9,0.64,31,Diabetes,Overweight,3.906810035842294,Medium,Middle-Aged
+5,139,80,35,160,31.6,0.361,25,Diabetes,Obese,4.398734177215189,Medium,Young
+3,111,62,20,79,22.6,0.142,21,No Diabetes,Normal,4.9115044247787605,Medium,Young
+9,123,70,44,94,33.1,0.374,40,No Diabetes,Obese,3.716012084592145,Medium,Middle-Aged
+7,159,66,20,79,30.4,0.383,36,Diabetes,Obese,5.230263157894737,High,Middle-Aged
+11,135,69,20,79,52.3,0.578,40,Diabetes,Obese,2.581261950286807,Medium,Middle-Aged
+8,85,55,20,79,24.4,0.136,42,No Diabetes,Normal,3.4836065573770494,Low,Middle-Aged
+5,158,84,41,210,39.4,0.395,29,Diabetes,Obese,4.01015228426396,High,Young
+1,105,58,20,79,24.3,0.187,21,No Diabetes,Normal,4.320987654320987,Medium,Young
+3,107,62,13,48,22.9,0.678,23,Diabetes,Normal,4.672489082969433,Medium,Young
+4,109,64,44,99,34.8,0.905,26,Diabetes,Obese,3.1321839080459775,Medium,Young
+4,148,60,27,318,30.9,0.15,29,Diabetes,Obese,4.789644012944984,High,Young
+3,113,80,16,79,31.0,0.874,21,No Diabetes,Obese,3.6451612903225805,Medium,Young
+1,138,82,20,79,40.1,0.236,28,No Diabetes,Obese,3.4413965087281793,Medium,Young
+3,108,68,20,79,27.3,0.787,32,No Diabetes,Overweight,3.9560439560439558,Medium,Middle-Aged
+2,99,70,16,44,20.4,0.235,27,No Diabetes,Normal,4.852941176470589,Low,Young
+6,103,72,32,190,37.7,0.324,55,No Diabetes,Obese,2.7320954907161803,Medium,Old
+5,111,72,28,79,23.9,0.407,27,No Diabetes,Normal,4.644351464435147,Medium,Young
+8,196,76,29,280,37.5,0.605,57,Diabetes,Obese,5.226666666666667,High,Old
+5,162,104,20,79,37.7,0.151,52,Diabetes,Obese,4.297082228116711,High,Old
+1,96,64,27,87,33.2,0.289,21,No Diabetes,Obese,2.8915662650602405,Low,Young
+7,184,84,33,79,35.5,0.355,41,Diabetes,Obese,5.183098591549296,High,Middle-Aged
+2,81,60,22,79,27.7,0.29,25,No Diabetes,Overweight,2.924187725631769,Low,Young
+3,147,85,54,79,42.8,0.375,24,No Diabetes,Obese,3.4345794392523366,High,Young
+7,179,95,31,79,34.2,0.164,60,No Diabetes,Obese,5.23391812865497,High,Old
+3,140,65,26,130,42.6,0.431,24,Diabetes,Obese,3.2863849765258215,Medium,Young
+9,112,82,32,175,34.2,0.26,36,Diabetes,Obese,3.2748538011695905,Medium,Middle-Aged
+12,151,70,40,271,41.8,0.742,38,Diabetes,Obese,3.61244019138756,High,Middle-Aged
+5,109,62,41,129,35.8,0.514,25,Diabetes,Obese,3.044692737430168,Medium,Young
+6,125,68,30,120,30.0,0.464,32,No Diabetes,Obese,4.166666666666667,Medium,Middle-Aged
+5,85,74,22,79,29.0,1.224,32,Diabetes,Overweight,2.9310344827586206,Low,Middle-Aged
+5,112,66,20,79,37.8,0.261,41,Diabetes,Obese,2.9629629629629632,Medium,Middle-Aged
+3,177,60,29,478,34.6,1.072,21,Diabetes,Obese,5.115606936416185,High,Young
+2,158,90,20,79,31.6,0.805,66,Diabetes,Obese,5.0,High,Old
+7,119,69,20,79,25.2,0.209,37,No Diabetes,Overweight,4.722222222222222,Medium,Middle-Aged
+7,142,60,33,190,28.8,0.687,61,No Diabetes,Overweight,4.930555555555555,High,Old
+1,100,66,15,56,23.6,0.666,26,No Diabetes,Normal,4.23728813559322,Low,Young
+1,87,78,27,32,34.6,0.101,22,No Diabetes,Obese,2.514450867052023,Low,Young
+3,101,76,20,79,35.7,0.198,26,No Diabetes,Obese,2.829131652661064,Medium,Young
+3,162,52,38,79,37.2,0.652,24,Diabetes,Obese,4.354838709677419,High,Young
+4,197,70,39,744,36.7,2.329,31,No Diabetes,Obese,5.367847411444141,High,Middle-Aged
+3,117,80,31,53,45.2,0.089,24,No Diabetes,Obese,2.5884955752212386,Medium,Young
+4,142,86,20,79,44.0,0.645,22,Diabetes,Obese,3.227272727272727,High,Young
+6,134,80,37,370,46.2,0.238,46,Diabetes,Obese,2.9004329004329,Medium,Middle-Aged
+1,79,80,25,37,25.4,0.583,22,No Diabetes,Overweight,3.110236220472441,Low,Young
+4,122,68,20,79,35.0,0.394,29,No Diabetes,Obese,3.4857142857142858,Medium,Young
+3,74,68,28,45,29.7,0.293,23,No Diabetes,Overweight,2.491582491582492,Low,Young
+4,171,72,20,79,43.6,0.479,26,Diabetes,Obese,3.922018348623853,High,Young
+7,181,84,21,192,35.9,0.586,51,Diabetes,Obese,5.041782729805014,High,Old
+3,179,90,27,79,44.1,0.686,23,Diabetes,Obese,4.058956916099773,High,Young
+9,164,84,21,79,30.8,0.831,32,Diabetes,Obese,5.324675324675325,High,Middle-Aged
+3,104,76,20,79,18.4,0.582,27,No Diabetes,Underweight,5.6521739130434785,Medium,Young
+1,91,64,24,79,29.2,0.192,21,No Diabetes,Overweight,3.116438356164384,Low,Young
+4,91,70,32,88,33.1,0.446,22,No Diabetes,Obese,2.7492447129909365,Low,Young
+3,139,54,20,79,25.6,0.402,22,Diabetes,Overweight,5.4296875,Medium,Young
+6,119,50,22,176,27.1,1.318,33,Diabetes,Overweight,4.391143911439114,Medium,Middle-Aged
+2,146,76,35,194,38.2,0.329,29,No Diabetes,Obese,3.8219895287958114,High,Young
+9,184,85,15,79,30.0,1.213,49,Diabetes,Obese,6.133333333333334,High,Middle-Aged
+10,122,68,20,79,31.2,0.258,41,No Diabetes,Obese,3.91025641025641,Medium,Middle-Aged
+3,165,90,33,680,52.3,0.427,23,No Diabetes,Obese,3.1548757170172084,High,Young
+9,124,70,33,402,35.4,0.282,34,No Diabetes,Obese,3.5028248587570623,Medium,Middle-Aged
+1,111,86,19,79,30.1,0.143,23,No Diabetes,Obese,3.6877076411960132,Medium,Young
+9,106,52,20,79,31.2,0.38,42,No Diabetes,Obese,3.3974358974358974,Medium,Middle-Aged
+2,129,84,20,79,28.0,0.284,27,No Diabetes,Overweight,4.607142857142857,Medium,Young
+2,90,80,14,55,24.4,0.249,24,No Diabetes,Normal,3.6885245901639347,Low,Young
+3,86,68,32,79,35.8,0.238,25,No Diabetes,Obese,2.4022346368715084,Low,Young
+12,92,62,7,258,27.6,0.926,44,Diabetes,Overweight,3.333333333333333,Low,Middle-Aged
+1,113,64,35,79,33.6,0.543,21,Diabetes,Obese,3.363095238095238,Medium,Young
+3,111,56,39,79,30.1,0.557,30,No Diabetes,Obese,3.6877076411960132,Medium,Young
+2,114,68,22,79,28.7,0.092,25,No Diabetes,Overweight,3.97212543554007,Medium,Young
+1,193,50,16,375,25.9,0.655,24,No Diabetes,Overweight,7.451737451737452,High,Young
+11,155,76,28,150,33.3,1.353,51,Diabetes,Obese,4.654654654654655,High,Old
+3,191,68,15,130,30.9,0.299,34,No Diabetes,Obese,6.181229773462784,High,Middle-Aged
+3,141,69,20,79,30.0,0.761,27,Diabetes,Obese,4.7,High,Young
+4,95,70,32,79,32.1,0.612,24,No Diabetes,Obese,2.9595015576323984,Low,Young
+3,142,80,15,79,32.4,0.2,63,No Diabetes,Obese,4.382716049382716,High,Old
+4,123,62,20,79,32.0,0.226,35,Diabetes,Obese,3.84375,Medium,Middle-Aged
+5,96,74,18,67,33.6,0.997,43,No Diabetes,Obese,2.857142857142857,Low,Middle-Aged
+3,138,69,20,79,36.3,0.933,25,Diabetes,Obese,3.8016528925619837,Medium,Young
+2,128,64,42,79,40.0,1.101,24,No Diabetes,Obese,3.2,Medium,Young
+3,102,52,20,79,25.1,0.078,21,No Diabetes,Overweight,4.063745019920319,Medium,Young
+2,146,69,20,79,27.5,0.24,28,Diabetes,Overweight,5.3090909090909095,High,Young
+10,101,86,37,79,45.6,1.136,38,Diabetes,Obese,2.2149122807017543,Medium,Middle-Aged
+2,108,62,32,56,25.2,0.128,21,No Diabetes,Overweight,4.285714285714286,Medium,Young
+3,122,78,20,79,23.0,0.254,40,No Diabetes,Normal,5.304347826086956,Medium,Middle-Aged
+1,71,78,50,45,33.2,0.422,21,No Diabetes,Obese,2.13855421686747,Low,Young
+13,106,70,20,79,34.2,0.251,52,No Diabetes,Obese,3.0994152046783623,Medium,Old
+2,100,70,52,57,40.5,0.677,25,No Diabetes,Obese,2.4691358024691357,Low,Young
+7,106,60,24,79,26.5,0.296,29,Diabetes,Overweight,4.0,Medium,Young
+3,104,64,23,116,27.8,0.454,23,No Diabetes,Overweight,3.741007194244604,Medium,Young
+5,114,74,20,79,24.9,0.744,57,No Diabetes,Obese,4.578313253012048,Medium,Old
+2,108,62,10,278,25.3,0.881,22,No Diabetes,Overweight,4.2687747035573125,Medium,Young
+3,146,70,20,79,37.9,0.334,28,Diabetes,Obese,3.8522427440633247,High,Young
+10,129,76,28,122,35.9,0.28,39,No Diabetes,Obese,3.5933147632311977,Medium,Middle-Aged
+7,133,88,15,155,32.4,0.262,37,No Diabetes,Obese,4.104938271604938,Medium,Middle-Aged
+7,161,86,20,79,30.4,0.165,47,Diabetes,Obese,5.296052631578948,High,Middle-Aged
+2,108,80,20,79,27.0,0.259,52,Diabetes,Overweight,4.0,Medium,Old
+7,136,74,26,135,26.0,0.647,51,No Diabetes,Overweight,5.230769230769231,Medium,Old
+5,155,84,44,545,38.7,0.619,34,No Diabetes,Obese,4.0051679586563305,High,Middle-Aged
+1,119,86,39,220,45.6,0.808,29,Diabetes,Obese,2.6096491228070176,Medium,Young
+4,96,56,17,49,20.8,0.34,26,No Diabetes,Normal,4.615384615384615,Low,Young
+5,108,72,43,75,36.1,0.263,33,No Diabetes,Obese,2.9916897506925206,Medium,Middle-Aged
+3,78,88,29,40,36.9,0.434,21,No Diabetes,Obese,2.113821138211382,Low,Young
+3,107,62,30,74,36.6,0.757,25,Diabetes,Obese,2.9234972677595628,Medium,Young
+2,128,78,37,182,43.3,1.224,31,Diabetes,Obese,2.956120092378753,Medium,Middle-Aged
+1,128,48,45,194,40.5,0.613,24,Diabetes,Obese,3.1604938271604937,Medium,Young
+3,161,50,20,79,21.9,0.254,65,No Diabetes,Normal,7.351598173515982,High,Old
+6,151,62,31,120,35.5,0.692,28,No Diabetes,Obese,4.253521126760563,High,Young
+2,146,70,38,360,28.0,0.337,29,Diabetes,Overweight,5.214285714285714,High,Young
+3,126,84,29,215,30.7,0.52,24,No Diabetes,Obese,4.1042345276872965,Medium,Young
+14,100,78,25,184,36.6,0.412,46,Diabetes,Obese,2.73224043715847,Low,Middle-Aged
+8,112,72,20,79,23.6,0.84,58,No Diabetes,Normal,4.745762711864407,Medium,Old
+3,167,69,20,79,32.3,0.839,30,Diabetes,Obese,5.170278637770898,High,Young
+2,144,58,33,135,31.6,0.422,25,Diabetes,Obese,4.556962025316455,High,Young
+5,77,82,41,42,35.8,0.156,35,No Diabetes,Obese,2.1508379888268156,Low,Middle-Aged
+5,115,98,20,79,52.9,0.209,28,Diabetes,Obese,2.1739130434782608,Medium,Young
+3,150,76,20,79,21.0,0.207,37,No Diabetes,Normal,7.142857142857143,High,Middle-Aged
+2,120,76,37,105,39.7,0.215,29,No Diabetes,Obese,3.0226700251889165,Medium,Young
+10,161,68,23,132,25.5,0.326,47,Diabetes,Overweight,6.313725490196078,High,Middle-Aged
+3,137,68,14,148,24.8,0.143,21,No Diabetes,Normal,5.524193548387097,Medium,Young
+3,128,68,19,180,30.5,1.391,25,Diabetes,Obese,4.19672131147541,Medium,Young
+2,124,68,28,205,32.9,0.875,30,Diabetes,Obese,3.7689969604863225,Medium,Young
+6,80,66,30,79,26.2,0.313,41,No Diabetes,Overweight,3.053435114503817,Low,Middle-Aged
+3,106,70,37,148,39.4,0.605,22,No Diabetes,Obese,2.690355329949239,Medium,Young
+2,155,74,17,96,26.6,0.433,27,Diabetes,Overweight,5.827067669172932,High,Young
+3,113,50,10,85,29.5,0.626,25,No Diabetes,Overweight,3.830508474576271,Medium,Young
+7,109,80,31,79,35.9,1.127,43,Diabetes,Obese,3.0362116991643457,Medium,Middle-Aged
+2,112,68,22,94,34.1,0.315,26,No Diabetes,Obese,3.284457478005865,Medium,Young
+3,99,80,11,64,19.3,0.284,30,No Diabetes,Normal,5.129533678756476,Low,Young
+3,182,74,20,79,30.5,0.345,29,Diabetes,Obese,5.967213114754099,High,Young
+3,115,66,39,140,38.1,0.15,28,No Diabetes,Obese,3.0183727034120733,Medium,Young
+6,194,78,20,79,23.5,0.129,59,Diabetes,Normal,8.25531914893617,High,Old
+4,129,60,12,231,27.5,0.527,31,No Diabetes,Overweight,4.6909090909090905,Medium,Middle-Aged
+3,112,74,30,79,31.6,0.197,25,Diabetes,Obese,3.5443037974683542,Medium,Young
+3,124,70,20,79,27.4,0.254,36,Diabetes,Overweight,4.525547445255475,Medium,Middle-Aged
+13,152,90,33,29,26.8,0.731,43,Diabetes,Overweight,5.671641791044776,High,Middle-Aged
+2,112,75,32,79,35.7,0.148,21,No Diabetes,Obese,3.1372549019607843,Medium,Young
+1,157,72,21,168,25.6,0.123,24,No Diabetes,Overweight,6.1328125,High,Young
+1,122,64,32,156,35.1,0.692,30,Diabetes,Obese,3.4757834757834756,Medium,Young
+10,179,70,20,79,35.1,0.2,37,No Diabetes,Obese,5.099715099715099,High,Middle-Aged
+2,102,86,36,120,45.5,0.127,23,Diabetes,Obese,2.241758241758242,Medium,Young
+6,105,70,32,68,30.8,0.122,37,No Diabetes,Obese,3.409090909090909,Medium,Middle-Aged
+8,118,72,19,79,23.1,1.476,46,No Diabetes,Normal,5.108225108225108,Medium,Middle-Aged
+2,87,58,16,52,32.7,0.166,25,No Diabetes,Obese,2.660550458715596,Low,Young
+1,180,69,20,79,43.3,0.282,41,Diabetes,Obese,4.157043879907621,High,Middle-Aged
+12,106,80,20,79,23.6,0.137,44,No Diabetes,Normal,4.491525423728813,Medium,Middle-Aged
+1,95,60,18,58,23.9,0.26,22,No Diabetes,Normal,3.97489539748954,Low,Young
+3,165,76,43,255,47.9,0.259,26,No Diabetes,Obese,3.4446764091858038,High,Young
+3,117,69,20,79,33.8,0.932,44,No Diabetes,Obese,3.4615384615384617,Medium,Middle-Aged
+5,115,76,20,79,31.2,0.343,44,Diabetes,Obese,3.685897435897436,Medium,Middle-Aged
+9,152,78,34,171,34.2,0.893,33,Diabetes,Obese,4.444444444444444,High,Middle-Aged
+7,178,84,20,79,39.9,0.331,41,Diabetes,Obese,4.461152882205514,High,Middle-Aged
+1,130,70,13,105,25.9,0.472,22,No Diabetes,Overweight,5.01930501930502,Medium,Young
+1,95,74,21,73,25.9,0.673,36,No Diabetes,Overweight,3.667953667953668,Low,Middle-Aged
+1,120,68,35,79,32.0,0.389,22,No Diabetes,Obese,3.75,Medium,Young
+5,122,86,20,79,34.7,0.29,33,No Diabetes,Obese,3.5158501440922185,Medium,Middle-Aged
+8,95,72,20,79,36.8,0.485,57,No Diabetes,Obese,2.581521739130435,Low,Old
+8,126,88,36,108,38.5,0.349,49,No Diabetes,Obese,3.272727272727273,Medium,Middle-Aged
+1,139,46,19,83,28.7,0.654,22,No Diabetes,Overweight,4.843205574912892,Medium,Young
+3,116,69,20,79,23.5,0.187,23,No Diabetes,Normal,4.9361702127659575,Medium,Young
+3,99,62,19,74,21.8,0.279,26,No Diabetes,Normal,4.541284403669724,Low,Young
+5,120,80,32,79,41.0,0.346,37,Diabetes,Obese,2.926829268292683,Medium,Middle-Aged
+4,92,80,20,79,42.2,0.237,29,No Diabetes,Obese,2.1800947867298577,Low,Young
+4,137,84,20,79,31.2,0.252,30,No Diabetes,Obese,4.391025641025641,Medium,Young
+3,61,82,28,79,34.4,0.243,46,No Diabetes,Obese,1.7732558139534884,Low,Middle-Aged
+1,90,62,12,43,27.2,0.58,24,No Diabetes,Overweight,3.308823529411765,Low,Young
+3,90,78,20,79,42.7,0.559,21,No Diabetes,Obese,2.1077283372365336,Low,Young
+9,165,88,20,79,30.4,0.302,49,Diabetes,Obese,5.427631578947369,High,Middle-Aged
+1,125,50,40,167,33.3,0.962,28,Diabetes,Obese,3.753753753753754,Medium,Young
+13,129,69,30,79,39.9,0.569,44,Diabetes,Obese,3.2330827067669174,Medium,Middle-Aged
+12,88,74,40,54,35.3,0.378,48,No Diabetes,Obese,2.492917847025496,Low,Middle-Aged
+1,196,76,36,249,36.5,0.875,29,Diabetes,Obese,5.36986301369863,High,Young
+5,189,64,33,325,31.2,0.583,29,Diabetes,Obese,6.0576923076923075,High,Young
+5,158,70,20,79,29.8,0.207,63,No Diabetes,Overweight,5.302013422818792,High,Old
+5,103,108,37,79,39.2,0.305,65,No Diabetes,Obese,2.627551020408163,Medium,Old
+4,146,78,20,79,38.5,0.52,67,Diabetes,Obese,3.792207792207792,High,Old
+4,147,74,25,293,34.9,0.385,30,No Diabetes,Obese,4.212034383954155,High,Young
+5,99,54,28,83,34.0,0.499,30,No Diabetes,Obese,2.911764705882353,Low,Young
+6,124,72,20,79,27.6,0.368,29,Diabetes,Overweight,4.492753623188405,Medium,Young
+3,101,64,17,79,21.0,0.252,21,No Diabetes,Normal,4.809523809523809,Medium,Young
+3,81,86,16,66,27.5,0.306,22,No Diabetes,Overweight,2.9454545454545453,Low,Young
+1,133,102,28,140,32.8,0.234,45,Diabetes,Obese,4.0548780487804885,Medium,Middle-Aged
+3,173,82,48,465,38.4,2.137,25,Diabetes,Obese,4.505208333333334,High,Young
+3,118,64,23,89,31.99,1.731,21,No Diabetes,Obese,3.688652703969991,Medium,Young
+3,84,64,22,66,35.8,0.545,21,No Diabetes,Obese,2.346368715083799,Low,Young
+2,105,58,40,94,34.9,0.225,25,No Diabetes,Obese,3.008595988538682,Medium,Young
+2,122,52,43,158,36.2,0.816,28,No Diabetes,Obese,3.370165745856353,Medium,Young
+12,140,82,43,325,39.2,0.528,58,Diabetes,Obese,3.571428571428571,Medium,Old
+3,98,82,15,84,25.2,0.299,22,No Diabetes,Overweight,3.888888888888889,Low,Young
+1,87,60,37,75,37.2,0.509,22,No Diabetes,Obese,2.3387096774193545,Low,Young
+4,156,75,20,79,48.3,0.238,32,Diabetes,Obese,3.2298136645962736,High,Middle-Aged
+3,93,100,39,72,43.4,1.021,35,No Diabetes,Obese,2.142857142857143,Low,Middle-Aged
+1,107,72,30,82,30.8,0.821,24,No Diabetes,Obese,3.474025974025974,Medium,Young
+3,105,68,22,79,20.0,0.236,22,No Diabetes,Normal,5.25,Medium,Young
+1,109,60,8,182,25.4,0.947,21,No Diabetes,Overweight,4.291338582677166,Medium,Young
+1,90,62,18,59,25.1,1.268,25,No Diabetes,Overweight,3.585657370517928,Low,Young
+1,125,70,24,110,24.3,0.221,25,No Diabetes,Normal,5.144032921810699,Medium,Young
+1,119,54,13,50,22.3,0.205,24,No Diabetes,Normal,5.336322869955157,Medium,Young
+5,116,74,29,79,32.3,0.66,35,Diabetes,Obese,3.5913312693498454,Medium,Middle-Aged
+8,105,100,36,79,43.3,0.239,45,Diabetes,Obese,2.424942263279446,Medium,Middle-Aged
+5,144,82,26,285,32.0,0.452,58,Diabetes,Obese,4.5,High,Old
+3,100,68,23,81,31.6,0.949,28,No Diabetes,Obese,3.1645569620253164,Low,Young
+1,100,66,29,196,32.0,0.444,42,No Diabetes,Obese,3.125,Low,Middle-Aged
+5,166,76,20,79,45.7,0.34,27,Diabetes,Obese,3.632385120350109,High,Young
+1,131,64,14,415,23.7,0.389,21,No Diabetes,Normal,5.527426160337553,Medium,Young
+4,116,72,12,87,22.1,0.463,37,No Diabetes,Normal,5.248868778280543,Medium,Middle-Aged
+4,158,78,20,79,32.9,0.803,31,Diabetes,Obese,4.802431610942249,High,Middle-Aged
+2,127,58,24,275,27.7,1.6,25,No Diabetes,Overweight,4.584837545126354,Medium,Young
+3,96,56,34,115,24.7,0.944,39,No Diabetes,Normal,3.8866396761133606,Low,Middle-Aged
+3,131,66,40,79,34.3,0.196,22,Diabetes,Obese,3.8192419825072887,Medium,Young
+3,82,70,20,79,21.1,0.389,25,No Diabetes,Normal,3.886255924170616,Low,Young
+3,193,70,31,79,34.9,0.241,25,Diabetes,Obese,5.530085959885387,High,Young
+4,95,64,20,79,32.0,0.161,31,Diabetes,Obese,2.96875,Low,Middle-Aged
+6,137,61,20,79,24.2,0.151,55,No Diabetes,Normal,5.661157024793389,Medium,Old
+5,136,84,41,88,35.0,0.286,35,Diabetes,Obese,3.8857142857142857,Medium,Middle-Aged
+9,72,78,25,79,31.6,0.28,38,No Diabetes,Obese,2.2784810126582276,Low,Middle-Aged
+5,168,64,20,79,32.9,0.135,41,Diabetes,Obese,5.1063829787234045,High,Middle-Aged
+2,123,48,32,165,42.1,0.52,26,No Diabetes,Obese,2.9216152019002375,Medium,Young
+4,115,72,20,79,28.9,0.376,46,Diabetes,Overweight,3.9792387543252596,Medium,Middle-Aged
+3,101,62,20,79,21.9,0.336,25,No Diabetes,Normal,4.6118721461187215,Medium,Young
+8,197,74,20,79,25.9,1.191,39,Diabetes,Overweight,7.6061776061776065,High,Middle-Aged
+1,172,68,49,579,42.4,0.702,28,Diabetes,Obese,4.056603773584905,High,Young
+6,102,90,39,79,35.7,0.674,28,No Diabetes,Obese,2.8571428571428568,Medium,Young
+1,112,72,30,176,34.4,0.528,25,No Diabetes,Obese,3.255813953488372,Medium,Young
+1,143,84,23,310,42.4,1.076,22,No Diabetes,Obese,3.3726415094339623,High,Young
+1,143,74,22,61,26.2,0.256,21,No Diabetes,Overweight,5.458015267175573,High,Young
+3,138,60,35,167,34.6,0.534,21,Diabetes,Obese,3.9884393063583814,Medium,Young
+3,173,84,33,474,35.7,0.258,22,Diabetes,Obese,4.84593837535014,High,Young
+1,97,68,21,79,27.2,1.095,22,No Diabetes,Overweight,3.5661764705882355,Low,Young
+4,144,82,32,79,38.5,0.554,37,Diabetes,Obese,3.74025974025974,High,Middle-Aged
+1,83,68,20,79,18.2,0.624,27,No Diabetes,Underweight,4.56043956043956,Low,Young
+3,129,64,29,115,26.4,0.219,28,Diabetes,Overweight,4.886363636363637,Medium,Young
+1,119,88,41,170,45.3,0.507,26,No Diabetes,Obese,2.6269315673289184,Medium,Young
+2,94,68,18,76,26.0,0.561,21,No Diabetes,Overweight,3.6153846153846154,Low,Young
+3,102,64,46,78,40.6,0.496,21,No Diabetes,Obese,2.5123152709359604,Medium,Young
+2,115,64,22,79,30.8,0.421,21,No Diabetes,Obese,3.7337662337662336,Medium,Young
+8,151,78,32,210,42.9,0.516,36,Diabetes,Obese,3.51981351981352,High,Middle-Aged
+4,184,78,39,277,37.0,0.264,31,Diabetes,Obese,4.972972972972973,High,Middle-Aged
+3,94,69,20,79,31.99,0.256,25,No Diabetes,Obese,2.938418255704908,Low,Young
+1,181,64,30,180,34.1,0.328,38,Diabetes,Obese,5.30791788856305,High,Middle-Aged
+3,135,94,46,145,40.6,0.284,26,No Diabetes,Obese,3.3251231527093594,Medium,Young
+1,95,82,25,180,35.0,0.233,43,Diabetes,Obese,2.7142857142857144,Low,Middle-Aged
+2,99,69,20,79,22.2,0.108,23,No Diabetes,Normal,4.45945945945946,Low,Young
+3,89,74,16,85,30.4,0.551,38,No Diabetes,Obese,2.9276315789473686,Low,Middle-Aged
+1,80,74,11,60,30.0,0.527,22,No Diabetes,Obese,2.6666666666666665,Low,Young
+2,139,75,20,79,25.6,0.167,29,No Diabetes,Overweight,5.4296875,Medium,Young
+1,90,68,8,79,24.5,1.138,36,No Diabetes,Normal,3.673469387755102,Low,Middle-Aged
+3,141,69,20,79,42.4,0.205,29,Diabetes,Obese,3.3254716981132075,High,Young
+12,140,85,33,79,37.4,0.244,41,No Diabetes,Obese,3.7433155080213907,Medium,Middle-Aged
+5,147,75,20,79,29.9,0.434,28,No Diabetes,Obese,4.916387959866221,High,Young
+1,97,70,15,79,18.2,0.147,21,No Diabetes,Underweight,5.32967032967033,Low,Young
+6,107,88,20,79,36.8,0.727,31,No Diabetes,Obese,2.9076086956521743,Medium,Middle-Aged
+3,189,104,25,79,34.3,0.435,41,Diabetes,Obese,5.510204081632653,High,Middle-Aged
+2,83,66,23,50,32.2,0.497,22,No Diabetes,Obese,2.5776397515527947,Low,Young
+4,117,64,27,120,33.2,0.23,24,No Diabetes,Obese,3.5240963855421685,Medium,Young
+8,108,70,20,79,30.5,0.955,33,Diabetes,Obese,3.540983606557377,Medium,Middle-Aged
+4,117,62,12,79,29.7,0.38,30,Diabetes,Overweight,3.9393939393939394,Medium,Young
+3,180,78,63,14,59.4,2.42,25,Diabetes,Obese,3.0303030303030303,High,Young
+1,100,72,12,70,25.3,0.658,28,No Diabetes,Overweight,3.952569169960474,Low,Young
+3,95,80,45,92,36.5,0.33,26,No Diabetes,Obese,2.6027397260273974,Low,Young
+3,104,64,37,64,33.6,0.51,22,Diabetes,Obese,3.095238095238095,Medium,Young
+3,120,74,18,63,30.5,0.285,26,No Diabetes,Obese,3.9344262295081966,Medium,Young
+1,82,64,13,95,21.2,0.415,23,No Diabetes,Normal,3.867924528301887,Low,Young
+2,134,70,20,79,28.9,0.542,23,Diabetes,Overweight,4.6366782006920415,Medium,Young
+3,91,68,32,210,39.9,0.381,25,No Diabetes,Obese,2.280701754385965,Low,Young
+2,119,69,20,79,19.6,0.832,72,No Diabetes,Normal,6.071428571428571,Medium,Old
+2,100,54,28,105,37.8,0.498,24,No Diabetes,Obese,2.6455026455026456,Low,Young
+14,175,62,30,79,33.6,0.212,38,Diabetes,Obese,5.208333333333333,High,Middle-Aged
+1,135,54,20,79,26.7,0.687,62,No Diabetes,Overweight,5.056179775280899,Medium,Old
+5,86,68,28,71,30.2,0.364,24,No Diabetes,Obese,2.847682119205298,Low,Young
+10,148,84,48,237,37.6,1.001,51,Diabetes,Obese,3.9361702127659575,High,Old
+9,134,74,33,60,25.9,0.46,81,No Diabetes,Overweight,5.173745173745174,Medium,Old
+9,120,72,22,56,20.8,0.733,48,No Diabetes,Normal,5.769230769230769,Medium,Middle-Aged
+1,71,62,20,79,21.8,0.416,26,No Diabetes,Normal,3.256880733944954,Low,Young
+8,74,70,40,49,35.3,0.705,39,No Diabetes,Obese,2.096317280453258,Low,Middle-Aged
+5,88,78,30,79,27.6,0.258,37,No Diabetes,Overweight,3.1884057971014492,Low,Middle-Aged
+10,115,98,20,79,24.0,1.022,34,No Diabetes,Normal,4.791666666666667,Medium,Middle-Aged
+3,124,56,13,105,21.8,0.452,21,No Diabetes,Normal,5.6880733944954125,Medium,Young
+3,74,52,10,36,27.8,0.269,22,No Diabetes,Overweight,2.661870503597122,Low,Young
+3,97,64,36,100,36.8,0.6,25,No Diabetes,Obese,2.6358695652173916,Low,Young
+8,120,69,20,79,30.0,0.183,38,Diabetes,Obese,4.0,Medium,Middle-Aged
+6,154,78,41,140,46.1,0.571,27,No Diabetes,Obese,3.34056399132321,High,Young
+1,144,82,40,79,41.3,0.607,28,No Diabetes,Obese,3.4866828087167074,High,Young
+3,137,70,38,79,33.2,0.17,22,No Diabetes,Obese,4.126506024096385,Medium,Young
+3,119,66,27,79,38.8,0.259,22,No Diabetes,Obese,3.0670103092783507,Medium,Young
+7,136,90,20,79,29.9,0.21,50,No Diabetes,Obese,4.5484949832775925,Medium,Middle-Aged
+4,114,64,20,79,28.9,0.126,24,No Diabetes,Overweight,3.944636678200692,Medium,Young
+3,137,84,27,79,27.3,0.231,59,No Diabetes,Overweight,5.018315018315018,Medium,Old
+2,105,80,45,191,33.7,0.711,29,Diabetes,Obese,3.115727002967359,Medium,Young
+7,114,76,17,110,23.8,0.466,31,No Diabetes,Normal,4.7899159663865545,Medium,Middle-Aged
+8,126,74,38,75,25.9,0.162,39,No Diabetes,Overweight,4.864864864864865,Medium,Middle-Aged
+4,132,86,31,79,28.0,0.419,63,No Diabetes,Overweight,4.714285714285714,Medium,Old
+3,158,70,30,328,35.5,0.344,35,Diabetes,Obese,4.450704225352113,High,Middle-Aged
+3,123,88,37,79,35.2,0.197,29,No Diabetes,Obese,3.4943181818181817,Medium,Young
+4,85,58,22,49,27.8,0.306,28,No Diabetes,Overweight,3.0575539568345325,Low,Young
+3,84,82,31,125,38.2,0.233,23,No Diabetes,Obese,2.1989528795811517,Low,Young
+3,145,69,20,79,44.2,0.63,31,Diabetes,Obese,3.2805429864253393,High,Middle-Aged
+3,135,68,42,250,42.3,0.365,24,Diabetes,Obese,3.191489361702128,Medium,Young
+1,139,62,41,480,40.7,0.536,21,No Diabetes,Obese,3.415233415233415,Medium,Young
+3,173,78,32,265,46.5,1.159,58,No Diabetes,Obese,3.7204301075268815,High,Old
+4,99,72,17,79,25.6,0.294,28,No Diabetes,Overweight,3.8671875,Low,Young
+8,194,80,20,79,26.1,0.551,67,No Diabetes,Overweight,7.432950191570881,High,Old
+2,83,65,28,66,36.8,0.629,24,No Diabetes,Obese,2.255434782608696,Low,Young
+2,89,90,30,79,33.5,0.292,42,No Diabetes,Obese,2.656716417910448,Low,Middle-Aged
+4,99,68,38,79,32.8,0.145,33,No Diabetes,Obese,3.0182926829268295,Low,Middle-Aged
+4,125,70,18,122,28.9,1.144,45,Diabetes,Overweight,4.325259515570934,Medium,Middle-Aged
+3,80,69,20,79,31.99,0.174,22,No Diabetes,Obese,2.500781494216943,Low,Young
+6,166,74,20,79,26.6,0.304,66,No Diabetes,Overweight,6.2406015037593985,High,Old
+5,110,68,20,79,26.0,0.292,30,No Diabetes,Overweight,4.230769230769231,Medium,Young
+2,81,72,15,76,30.1,0.547,25,No Diabetes,Obese,2.691029900332226,Low,Young
+7,195,70,33,145,25.1,0.163,55,Diabetes,Overweight,7.768924302788844,High,Old
+6,154,74,32,193,29.3,0.839,39,No Diabetes,Overweight,5.255972696245734,High,Middle-Aged
+2,117,90,19,71,25.2,0.313,21,No Diabetes,Overweight,4.642857142857143,Medium,Young
+3,84,72,32,79,37.2,0.267,28,No Diabetes,Obese,2.258064516129032,Low,Young
+6,120,68,41,79,39.0,0.727,41,Diabetes,Obese,3.076923076923077,Medium,Middle-Aged
+7,94,64,25,79,33.3,0.738,41,No Diabetes,Obese,2.822822822822823,Low,Middle-Aged
+3,96,78,39,79,37.3,0.238,40,No Diabetes,Obese,2.57372654155496,Low,Middle-Aged
+10,75,82,20,79,33.3,0.263,38,No Diabetes,Obese,2.2522522522522523,Low,Middle-Aged
+3,180,90,26,90,36.5,0.314,35,Diabetes,Obese,4.931506849315069,High,Middle-Aged
+1,130,60,23,170,28.6,0.692,21,No Diabetes,Overweight,4.545454545454545,Medium,Young
+2,84,50,23,76,30.4,0.968,21,No Diabetes,Obese,2.763157894736842,Low,Young
+8,120,78,20,79,25.0,0.409,64,No Diabetes,Overweight,4.8,Medium,Old
+12,84,72,31,79,29.7,0.297,46,Diabetes,Overweight,2.8282828282828283,Low,Middle-Aged
+3,139,62,17,210,22.1,0.207,21,No Diabetes,Normal,6.289592760180995,Medium,Young
+9,91,68,20,79,24.2,0.2,58,No Diabetes,Normal,3.760330578512397,Low,Old
+2,91,62,20,79,27.3,0.525,22,No Diabetes,Overweight,3.333333333333333,Low,Young
+3,99,54,19,86,25.6,0.154,24,No Diabetes,Overweight,3.8671875,Low,Young
+3,163,70,18,105,31.6,0.268,28,Diabetes,Obese,5.158227848101266,High,Young
+9,145,88,34,165,30.3,0.771,53,Diabetes,Obese,4.785478547854785,High,Old
+7,125,86,20,79,37.6,0.304,51,No Diabetes,Obese,3.324468085106383,Medium,Old
+13,76,60,20,79,32.8,0.18,41,No Diabetes,Obese,2.3170731707317076,Low,Middle-Aged
+6,129,90,7,326,19.6,0.582,60,No Diabetes,Normal,6.581632653061224,Medium,Old
+2,68,70,32,66,25.0,0.187,25,No Diabetes,Overweight,2.72,Low,Young
+3,124,80,33,130,33.2,0.305,26,No Diabetes,Obese,3.7349397590361444,Medium,Young
+6,114,69,20,79,31.99,0.189,26,No Diabetes,Obese,3.5636136292591436,Medium,Young
+9,130,70,20,79,34.2,0.652,45,Diabetes,Obese,3.8011695906432745,Medium,Middle-Aged
+3,125,58,20,79,31.6,0.151,24,No Diabetes,Obese,3.9556962025316453,Medium,Young
+3,87,60,18,79,21.8,0.444,21,No Diabetes,Normal,3.9908256880733943,Low,Young
+1,97,64,19,82,18.2,0.299,21,No Diabetes,Underweight,5.32967032967033,Low,Young
+3,116,74,15,105,26.3,0.107,24,No Diabetes,Overweight,4.410646387832699,Medium,Young
+3,117,66,31,188,30.8,0.493,22,No Diabetes,Obese,3.7987012987012987,Medium,Young
+3,111,65,20,79,24.6,0.66,31,No Diabetes,Normal,4.512195121951219,Medium,Middle-Aged
+2,122,60,18,106,29.8,0.717,22,No Diabetes,Overweight,4.093959731543624,Medium,Young
+3,107,76,20,79,45.3,0.686,24,No Diabetes,Obese,2.3620309050772628,Medium,Young
+1,86,66,52,65,41.3,0.917,29,No Diabetes,Obese,2.082324455205811,Low,Young
+6,91,69,20,79,29.8,0.501,31,No Diabetes,Overweight,3.053691275167785,Low,Middle-Aged
+1,77,56,30,56,33.3,1.251,24,No Diabetes,Obese,2.3123123123123124,Low,Young
+4,132,69,20,79,32.9,0.302,23,Diabetes,Obese,4.0121580547112465,Medium,Young
+3,105,90,20,79,29.6,0.197,46,No Diabetes,Overweight,3.547297297297297,Medium,Middle-Aged
+3,57,60,20,79,21.7,0.735,67,No Diabetes,Normal,2.6267281105990783,Low,Old
+3,127,80,37,210,36.3,0.804,23,No Diabetes,Obese,3.498622589531681,Medium,Young
+3,129,92,49,155,36.4,0.968,32,Diabetes,Obese,3.5439560439560442,Medium,Middle-Aged
+8,100,74,40,215,39.4,0.661,43,Diabetes,Obese,2.5380710659898478,Low,Middle-Aged
+3,128,72,25,190,32.4,0.549,27,Diabetes,Obese,3.9506172839506175,Medium,Young
+10,90,85,32,79,34.9,0.825,56,Diabetes,Obese,2.5787965616045847,Low,Old
+4,84,90,23,56,39.5,0.159,25,No Diabetes,Obese,2.1265822784810124,Low,Young
+1,88,78,29,76,32.0,0.365,29,No Diabetes,Obese,2.75,Low,Young
+8,186,90,35,225,34.5,0.423,37,Diabetes,Obese,5.391304347826087,High,Middle-Aged
+5,187,76,27,207,43.6,1.034,53,Diabetes,Obese,4.2889908256880735,High,Old
+4,131,68,21,166,33.1,0.16,28,No Diabetes,Obese,3.957703927492447,Medium,Young
+1,164,82,43,67,32.8,0.341,50,No Diabetes,Obese,5.0,High,Middle-Aged
+4,189,110,31,79,28.5,0.68,37,No Diabetes,Overweight,6.631578947368421,High,Middle-Aged
+1,116,70,28,79,27.4,0.204,21,No Diabetes,Overweight,4.233576642335767,Medium,Young
+3,84,68,30,106,31.9,0.591,25,No Diabetes,Obese,2.633228840125392,Low,Young
+6,114,88,20,79,27.8,0.247,66,No Diabetes,Overweight,4.100719424460432,Medium,Old
+1,88,62,24,44,29.9,0.422,23,No Diabetes,Obese,2.9431438127090304,Low,Young
+1,84,64,23,115,36.9,0.471,28,No Diabetes,Obese,2.2764227642276422,Low,Young
+7,124,70,33,215,25.5,0.161,37,No Diabetes,Overweight,4.862745098039215,Medium,Middle-Aged
+1,97,70,40,79,38.1,0.218,30,No Diabetes,Obese,2.5459317585301835,Low,Young
+8,110,76,20,79,27.8,0.237,58,No Diabetes,Overweight,3.9568345323741005,Medium,Old
+11,103,68,40,79,46.2,0.126,42,No Diabetes,Obese,2.229437229437229,Medium,Middle-Aged
+11,85,74,20,79,30.1,0.3,35,No Diabetes,Obese,2.823920265780731,Low,Middle-Aged
+6,125,76,20,79,33.8,0.121,54,Diabetes,Obese,3.6982248520710064,Medium,Old
+3,198,66,32,274,41.3,0.502,28,Diabetes,Obese,4.7941888619854724,High,Young
+1,87,68,34,77,37.6,0.401,24,No Diabetes,Obese,2.3138297872340425,Low,Young
+6,99,60,19,54,26.9,0.497,32,No Diabetes,Overweight,3.680297397769517,Low,Middle-Aged
+3,91,80,20,79,32.4,0.601,27,No Diabetes,Obese,2.808641975308642,Low,Young
+2,95,54,14,88,26.1,0.748,22,No Diabetes,Overweight,3.639846743295019,Low,Young
+1,99,72,30,18,38.6,0.412,21,No Diabetes,Obese,2.564766839378238,Low,Young
+6,92,62,32,126,32.0,0.085,46,No Diabetes,Obese,2.875,Low,Middle-Aged
+4,154,72,29,126,31.3,0.338,37,No Diabetes,Obese,4.920127795527156,High,Middle-Aged
+3,121,66,30,165,34.3,0.203,33,Diabetes,Obese,3.527696793002916,Medium,Middle-Aged
+3,78,70,20,79,32.5,0.27,39,No Diabetes,Obese,2.4,Low,Middle-Aged
+2,130,96,20,79,22.6,0.268,21,No Diabetes,Normal,5.752212389380531,Medium,Young
+3,111,58,31,44,29.5,0.43,22,No Diabetes,Overweight,3.76271186440678,Medium,Young
+2,98,60,17,120,34.7,0.198,22,No Diabetes,Obese,2.824207492795389,Low,Young
+1,143,86,30,330,30.1,0.892,23,No Diabetes,Obese,4.750830564784053,High,Young
+1,119,44,47,63,35.5,0.28,25,No Diabetes,Obese,3.352112676056338,Medium,Young
+6,108,44,20,130,24.0,0.813,35,No Diabetes,Normal,4.5,Medium,Middle-Aged
+2,118,80,20,79,42.9,0.693,21,Diabetes,Obese,2.7505827505827507,Medium,Young
+10,133,68,20,79,27.0,0.245,36,No Diabetes,Overweight,4.925925925925926,Medium,Middle-Aged
+2,197,70,99,79,34.7,0.575,62,Diabetes,Obese,5.677233429394812,High,Old
+3,151,90,46,79,42.1,0.371,21,Diabetes,Obese,3.5866983372921615,High,Young
+6,109,60,27,79,25.0,0.206,27,No Diabetes,Overweight,4.36,Medium,Young
+12,121,78,17,79,26.5,0.259,62,No Diabetes,Overweight,4.566037735849057,Medium,Old
+8,100,76,20,79,38.7,0.19,42,No Diabetes,Obese,2.5839793281653747,Low,Middle-Aged
+8,124,76,24,600,28.7,0.687,52,Diabetes,Overweight,4.320557491289199,Medium,Old
+1,93,56,11,79,22.5,0.417,22,No Diabetes,Normal,4.133333333333334,Low,Young
+8,143,66,20,79,34.9,0.129,41,Diabetes,Obese,4.097421203438396,High,Middle-Aged
+6,103,66,20,79,24.3,0.249,29,No Diabetes,Normal,4.238683127572016,Medium,Young
+3,176,86,27,156,33.3,1.154,52,Diabetes,Obese,5.285285285285286,High,Old
+3,73,69,20,79,21.1,0.342,25,No Diabetes,Normal,3.4597156398104265,Low,Young
+11,111,84,40,79,46.8,0.925,45,Diabetes,Obese,2.371794871794872,Medium,Middle-Aged
+2,112,78,50,140,39.4,0.175,24,No Diabetes,Obese,2.8426395939086295,Medium,Young
+3,132,80,20,79,34.4,0.402,44,Diabetes,Obese,3.8372093023255816,Medium,Middle-Aged
+2,82,52,22,115,28.5,1.699,25,No Diabetes,Overweight,2.8771929824561404,Low,Young
+6,123,72,45,230,33.6,0.733,34,No Diabetes,Obese,3.6607142857142856,Medium,Middle-Aged
+3,188,82,14,185,32.0,0.682,22,Diabetes,Obese,5.875,High,Young
+3,67,76,20,79,45.3,0.194,46,No Diabetes,Obese,1.479028697571744,Low,Middle-Aged
+1,89,24,19,25,27.8,0.559,21,No Diabetes,Overweight,3.2014388489208634,Low,Young
+1,173,74,20,79,36.8,0.088,38,Diabetes,Obese,4.701086956521739,High,Middle-Aged
+1,109,38,18,120,23.1,0.407,26,No Diabetes,Normal,4.7186147186147185,Medium,Young
+1,108,88,19,79,27.1,0.4,24,No Diabetes,Overweight,3.9852398523985237,Medium,Young
+6,96,69,20,79,23.7,0.19,28,No Diabetes,Normal,4.050632911392405,Low,Young
+1,124,74,36,79,27.8,0.1,30,No Diabetes,Overweight,4.460431654676259,Medium,Young
+7,150,78,29,126,35.2,0.692,54,Diabetes,Obese,4.261363636363636,High,Old
+4,183,69,20,79,28.4,0.212,36,Diabetes,Overweight,6.443661971830986,High,Middle-Aged
+1,124,60,32,79,35.8,0.514,21,No Diabetes,Obese,3.463687150837989,Medium,Young
+1,181,78,42,293,40.0,1.258,22,Diabetes,Obese,4.525,High,Young
+1,92,62,25,41,19.5,0.482,25,No Diabetes,Normal,4.717948717948718,Low,Young
+3,152,82,39,272,41.5,0.27,27,No Diabetes,Obese,3.6626506024096384,High,Young
+1,111,62,13,182,24.0,0.138,23,No Diabetes,Normal,4.625,Medium,Young
+3,106,54,21,158,30.9,0.292,24,No Diabetes,Obese,3.43042071197411,Medium,Young
+3,174,58,22,194,32.9,0.593,36,Diabetes,Obese,5.288753799392097,High,Middle-Aged
+7,168,88,42,321,38.2,0.787,40,Diabetes,Obese,4.397905759162303,High,Middle-Aged
+6,105,80,28,79,32.5,0.878,26,No Diabetes,Obese,3.230769230769231,Medium,Young
+11,138,74,26,144,36.1,0.557,50,Diabetes,Obese,3.822714681440443,Medium,Middle-Aged
+3,106,72,20,79,25.8,0.207,27,No Diabetes,Overweight,4.108527131782946,Medium,Young
+6,117,96,20,79,28.7,0.157,30,No Diabetes,Overweight,4.076655052264808,Medium,Young
+2,68,62,13,15,20.1,0.257,23,No Diabetes,Normal,3.3830845771144276,Low,Young
+9,112,82,24,79,28.2,1.282,50,Diabetes,Overweight,3.971631205673759,Medium,Middle-Aged
+3,119,69,20,79,32.4,0.141,24,Diabetes,Obese,3.67283950617284,Medium,Young
+2,112,86,42,160,38.4,0.246,28,No Diabetes,Obese,2.916666666666667,Medium,Young
+2,92,76,20,79,24.2,1.698,28,No Diabetes,Normal,3.8016528925619837,Low,Young
+6,183,94,20,79,40.8,1.461,45,No Diabetes,Obese,4.485294117647059,High,Middle-Aged
+3,94,70,27,115,43.5,0.347,21,No Diabetes,Obese,2.160919540229885,Low,Young
+2,108,64,20,79,30.8,0.158,21,No Diabetes,Obese,3.5064935064935066,Medium,Young
+4,90,88,47,54,37.7,0.362,29,No Diabetes,Obese,2.3872679045092835,Low,Young
+3,125,68,20,79,24.7,0.206,21,No Diabetes,Normal,5.060728744939271,Medium,Young
+3,132,78,20,79,32.4,0.393,21,No Diabetes,Obese,4.074074074074074,Medium,Young
+5,128,80,20,79,34.6,0.144,45,No Diabetes,Obese,3.699421965317919,Medium,Middle-Aged
+4,94,65,22,79,24.7,0.148,21,No Diabetes,Normal,3.805668016194332,Low,Young
+7,114,64,20,79,27.4,0.732,34,Diabetes,Overweight,4.160583941605839,Medium,Middle-Aged
+3,102,78,40,90,34.5,0.238,24,No Diabetes,Obese,2.9565217391304346,Medium,Young
+2,111,60,20,79,26.2,0.343,23,No Diabetes,Overweight,4.236641221374046,Medium,Young
+1,128,82,17,183,27.5,0.115,22,No Diabetes,Overweight,4.654545454545454,Medium,Young
+10,92,62,20,79,25.9,0.167,31,No Diabetes,Overweight,3.552123552123552,Low,Middle-Aged
+13,104,72,20,79,31.2,0.465,38,Diabetes,Obese,3.3333333333333335,Medium,Middle-Aged
+5,104,74,20,79,28.8,0.153,48,No Diabetes,Overweight,3.611111111111111,Medium,Middle-Aged
+2,94,76,18,66,31.6,0.649,23,No Diabetes,Obese,2.9746835443037973,Low,Young
+7,97,76,32,91,40.9,0.871,32,Diabetes,Obese,2.371638141809291,Low,Middle-Aged
+1,100,74,12,46,19.5,0.149,28,No Diabetes,Normal,5.128205128205129,Low,Young
+3,102,86,17,105,29.3,0.695,27,No Diabetes,Overweight,3.4812286689419794,Medium,Young
+4,128,70,20,79,34.3,0.303,24,No Diabetes,Obese,3.731778425655977,Medium,Young
+6,147,80,20,79,29.5,0.178,50,Diabetes,Overweight,4.983050847457627,High,Middle-Aged
+4,90,69,20,79,28.0,0.61,31,No Diabetes,Overweight,3.2142857142857144,Low,Middle-Aged
+3,103,72,30,152,27.6,0.73,27,No Diabetes,Overweight,3.731884057971014,Medium,Young
+2,157,74,35,440,39.4,0.134,30,No Diabetes,Obese,3.984771573604061,High,Young
+1,167,74,17,144,23.4,0.447,33,Diabetes,Normal,7.136752136752137,High,Middle-Aged
+3,179,50,36,159,37.8,0.455,22,Diabetes,Obese,4.735449735449736,High,Young
+11,136,84,35,130,28.3,0.26,42,Diabetes,Overweight,4.805653710247349,Medium,Middle-Aged
+3,107,60,25,79,26.4,0.133,23,No Diabetes,Overweight,4.053030303030304,Medium,Young
+1,91,54,25,100,25.2,0.234,23,No Diabetes,Overweight,3.611111111111111,Low,Young
+1,117,60,23,106,33.8,0.466,27,No Diabetes,Obese,3.4615384615384617,Medium,Young
+5,123,74,40,77,34.1,0.269,28,No Diabetes,Obese,3.6070381231671553,Medium,Young
+2,120,54,20,79,26.8,0.455,27,No Diabetes,Overweight,4.477611940298507,Medium,Young
+1,106,70,28,135,34.2,0.142,22,No Diabetes,Obese,3.0994152046783623,Medium,Young
+2,155,52,27,540,38.7,0.24,25,Diabetes,Obese,4.0051679586563305,High,Young
+2,101,58,35,90,21.8,0.155,22,No Diabetes,Normal,4.633027522935779,Medium,Young
+1,120,80,48,200,38.9,1.162,41,No Diabetes,Obese,3.084832904884319,Medium,Middle-Aged
+11,127,106,20,79,39.0,0.19,51,No Diabetes,Obese,3.2564102564102564,Medium,Old
+3,80,82,31,70,34.2,1.292,27,Diabetes,Obese,2.3391812865497075,Low,Young
+10,162,84,20,79,27.7,0.182,54,No Diabetes,Overweight,5.848375451263538,High,Old
+1,199,76,43,79,42.9,1.394,22,Diabetes,Obese,4.638694638694639,High,Young
+8,167,106,46,231,37.6,0.165,43,Diabetes,Obese,4.441489361702128,High,Middle-Aged
+9,145,80,46,130,37.9,0.637,40,Diabetes,Obese,3.825857519788918,High,Middle-Aged
+6,115,60,39,79,33.7,0.245,40,Diabetes,Obese,3.4124629080118694,Medium,Middle-Aged
+1,112,80,45,132,34.8,0.217,24,No Diabetes,Obese,3.218390804597701,Medium,Young
+4,145,82,18,79,32.5,0.235,70,Diabetes,Obese,4.461538461538462,High,Old
+10,111,70,27,79,27.5,0.141,40,Diabetes,Overweight,4.036363636363636,Medium,Middle-Aged
+6,98,58,33,190,34.0,0.43,43,No Diabetes,Obese,2.8823529411764706,Low,Middle-Aged
+9,154,78,30,100,30.9,0.164,45,No Diabetes,Obese,4.983818770226537,High,Middle-Aged
+6,165,68,26,168,33.6,0.631,49,No Diabetes,Obese,4.910714285714286,High,Middle-Aged
+1,99,58,10,79,25.4,0.551,21,No Diabetes,Overweight,3.8976377952755907,Low,Young
+10,68,106,23,49,35.5,0.285,47,No Diabetes,Obese,1.9154929577464788,Low,Middle-Aged
+3,123,100,35,240,57.3,0.88,22,No Diabetes,Obese,2.1465968586387434,Medium,Young
+8,91,82,20,79,35.6,0.587,68,No Diabetes,Obese,2.556179775280899,Low,Old
+6,195,70,20,79,30.9,0.328,31,Diabetes,Obese,6.310679611650485,High,Middle-Aged
+9,156,86,20,79,24.8,0.23,53,Diabetes,Normal,6.290322580645161,High,Old
+3,93,60,20,79,35.3,0.263,25,No Diabetes,Obese,2.634560906515581,Low,Young
+3,121,52,20,79,36.0,0.127,25,Diabetes,Obese,3.361111111111111,Medium,Young
+2,101,58,17,265,24.2,0.614,23,No Diabetes,Normal,4.1735537190082646,Medium,Young
+2,56,56,28,45,24.2,0.332,22,No Diabetes,Normal,2.31404958677686,Low,Young
+3,162,76,36,79,49.6,0.364,26,Diabetes,Obese,3.2661290322580645,High,Young
+3,95,64,39,105,44.6,0.366,22,No Diabetes,Obese,2.1300448430493275,Low,Young
+4,125,80,20,79,32.3,0.536,27,Diabetes,Obese,3.8699690402476783,Medium,Young
+5,136,82,20,79,31.99,0.64,69,No Diabetes,Obese,4.251328540168803,Medium,Old
+2,129,74,26,205,33.2,0.591,25,No Diabetes,Obese,3.8855421686746983,Medium,Young
+3,130,64,20,79,23.1,0.314,22,No Diabetes,Normal,5.627705627705628,Medium,Young
+1,107,50,19,79,28.3,0.181,29,No Diabetes,Overweight,3.780918727915194,Medium,Young
+1,140,74,26,180,24.1,0.828,23,No Diabetes,Normal,5.809128630705394,Medium,Young
+1,144,82,46,180,46.1,0.335,46,Diabetes,Obese,3.123644251626898,High,Middle-Aged
+8,107,80,20,79,24.6,0.856,34,No Diabetes,Normal,4.349593495934959,Medium,Middle-Aged
+13,158,114,20,79,42.3,0.257,44,Diabetes,Obese,3.735224586288416,High,Middle-Aged
+2,121,70,32,95,39.1,0.886,23,No Diabetes,Obese,3.09462915601023,Medium,Young
+7,129,68,49,125,38.5,0.439,43,Diabetes,Obese,3.3506493506493507,Medium,Middle-Aged
+2,90,60,20,79,23.5,0.191,25,No Diabetes,Normal,3.8297872340425534,Low,Young
+7,142,90,24,480,30.4,0.128,43,Diabetes,Obese,4.671052631578948,High,Middle-Aged
+3,169,74,19,125,29.9,0.268,31,Diabetes,Obese,5.6521739130434785,High,Middle-Aged
+3,99,69,20,79,25.0,0.253,22,No Diabetes,Overweight,3.96,Low,Young
+4,127,88,11,155,34.5,0.598,28,No Diabetes,Obese,3.681159420289855,Medium,Young
+4,118,70,20,79,44.5,0.904,26,No Diabetes,Obese,2.651685393258427,Medium,Young
+2,122,76,27,200,35.9,0.483,26,No Diabetes,Obese,3.3983286908077996,Medium,Young
+6,125,78,31,79,27.6,0.565,49,Diabetes,Overweight,4.528985507246377,Medium,Middle-Aged
+1,168,88,29,79,35.0,0.905,52,Diabetes,Obese,4.8,High,Old
+2,129,69,20,79,38.5,0.304,41,No Diabetes,Obese,3.3506493506493507,Medium,Middle-Aged
+4,110,76,20,100,28.4,0.118,27,No Diabetes,Overweight,3.8732394366197185,Medium,Young
+6,80,80,36,79,39.8,0.177,28,No Diabetes,Obese,2.0100502512562817,Low,Young
+10,115,69,20,79,31.99,0.261,30,Diabetes,Obese,3.5948733979368552,Medium,Young
+2,127,46,21,335,34.4,0.176,22,No Diabetes,Obese,3.6918604651162794,Medium,Young
+9,164,78,20,79,32.8,0.148,45,Diabetes,Obese,5.0,High,Middle-Aged
+2,93,64,32,160,38.0,0.674,23,Diabetes,Obese,2.4473684210526314,Low,Young
+3,158,64,13,387,31.2,0.295,24,No Diabetes,Obese,5.064102564102564,High,Young
+5,126,78,27,22,29.6,0.439,40,No Diabetes,Overweight,4.256756756756756,Medium,Middle-Aged
+10,129,62,36,79,41.2,0.441,38,Diabetes,Obese,3.1310679611650483,Medium,Middle-Aged
+3,134,58,20,291,26.4,0.352,21,No Diabetes,Overweight,5.075757575757576,Medium,Young
+3,102,74,20,79,29.5,0.121,32,No Diabetes,Overweight,3.457627118644068,Medium,Middle-Aged
+7,187,50,33,392,33.9,0.826,34,Diabetes,Obese,5.51622418879056,High,Middle-Aged
+3,173,78,39,185,33.8,0.97,31,Diabetes,Obese,5.118343195266273,High,Middle-Aged
+10,94,72,18,79,23.1,0.595,56,No Diabetes,Normal,4.069264069264069,Low,Old
+1,108,60,46,178,35.5,0.415,24,No Diabetes,Obese,3.0422535211267605,Medium,Young
+5,97,76,27,79,35.6,0.378,52,Diabetes,Obese,2.7247191011235956,Low,Old
+4,83,86,19,79,29.3,0.317,34,No Diabetes,Overweight,2.832764505119454,Low,Middle-Aged
+1,114,66,36,200,38.1,0.289,21,No Diabetes,Obese,2.9921259842519685,Medium,Young
+1,149,68,29,127,29.3,0.349,42,Diabetes,Overweight,5.085324232081911,High,Middle-Aged
+5,117,86,30,105,39.1,0.251,42,No Diabetes,Obese,2.9923273657289,Medium,Middle-Aged
+1,111,94,20,79,32.8,0.265,45,No Diabetes,Obese,3.3841463414634148,Medium,Middle-Aged
+4,112,78,40,79,39.4,0.236,38,No Diabetes,Obese,2.8426395939086295,Medium,Middle-Aged
+1,116,78,29,180,36.1,0.496,25,No Diabetes,Obese,3.2132963988919667,Medium,Young
+3,141,84,26,79,32.4,0.433,22,No Diabetes,Obese,4.351851851851852,High,Young
+2,175,88,20,79,22.9,0.326,22,No Diabetes,Normal,7.641921397379913,High,Young
+2,92,52,20,79,30.1,0.141,22,No Diabetes,Obese,3.0564784053156147,Low,Young
+3,130,78,23,79,28.4,0.323,34,Diabetes,Overweight,4.577464788732395,Medium,Middle-Aged
+8,120,86,20,79,28.4,0.259,22,Diabetes,Overweight,4.225352112676057,Medium,Young
+2,174,88,37,120,44.5,0.646,24,Diabetes,Obese,3.9101123595505616,High,Young
+2,106,56,27,165,29.0,0.426,22,No Diabetes,Overweight,3.6551724137931036,Medium,Young
+2,105,75,20,79,23.3,0.56,53,No Diabetes,Normal,4.506437768240343,Medium,Old
+4,95,60,32,79,35.4,0.284,28,No Diabetes,Obese,2.68361581920904,Low,Young
+3,126,86,27,120,27.4,0.515,21,No Diabetes,Overweight,4.598540145985401,Medium,Young
+8,65,72,23,79,32.0,0.6,42,No Diabetes,Obese,2.03125,Low,Middle-Aged
+2,99,60,17,160,36.6,0.453,21,No Diabetes,Obese,2.7049180327868854,Low,Young
+1,102,74,20,79,39.5,0.293,42,Diabetes,Obese,2.5822784810126582,Medium,Middle-Aged
+11,120,80,37,150,42.3,0.785,48,Diabetes,Obese,2.8368794326241136,Medium,Middle-Aged
+3,102,44,20,94,30.8,0.4,26,No Diabetes,Obese,3.311688311688312,Medium,Young
+1,109,58,18,116,28.5,0.219,22,No Diabetes,Overweight,3.824561403508772,Medium,Young
+9,140,94,20,79,32.7,0.734,45,Diabetes,Obese,4.281345565749235,Medium,Middle-Aged
+13,153,88,37,140,40.6,1.174,39,No Diabetes,Obese,3.768472906403941,High,Middle-Aged
+12,100,84,33,105,30.0,0.488,46,No Diabetes,Obese,3.3333333333333335,Low,Middle-Aged
+1,147,94,41,79,49.3,0.358,27,Diabetes,Obese,2.981744421906694,High,Young
+1,81,74,41,57,46.3,1.096,32,No Diabetes,Obese,1.7494600431965444,Low,Middle-Aged
+3,187,70,22,200,36.4,0.408,36,Diabetes,Obese,5.137362637362638,High,Middle-Aged
+6,162,62,20,79,24.3,0.178,50,Diabetes,Normal,6.666666666666666,High,Middle-Aged
+4,136,70,20,79,31.2,1.182,22,Diabetes,Obese,4.3589743589743595,Medium,Young
+1,121,78,39,74,39.0,0.261,28,No Diabetes,Obese,3.1025641025641026,Medium,Young
+3,108,62,24,79,26.0,0.223,25,No Diabetes,Overweight,4.153846153846154,Medium,Young
+3,181,88,44,510,43.3,0.222,26,Diabetes,Obese,4.180138568129331,High,Young
+8,154,78,32,79,32.4,0.443,45,Diabetes,Obese,4.753086419753086,High,Middle-Aged
+1,128,88,39,110,36.5,1.057,37,Diabetes,Obese,3.506849315068493,Medium,Middle-Aged
+7,137,90,41,79,32.0,0.391,39,No Diabetes,Obese,4.28125,Medium,Middle-Aged
+3,123,72,20,79,36.3,0.258,52,Diabetes,Obese,3.388429752066116,Medium,Old
+1,106,76,20,79,37.5,0.197,26,No Diabetes,Obese,2.8266666666666667,Medium,Young
+6,190,92,20,79,35.5,0.278,66,Diabetes,Obese,5.352112676056338,High,Old
+2,88,58,26,16,28.4,0.766,22,No Diabetes,Overweight,3.098591549295775,Low,Young
+9,170,74,31,79,44.0,0.403,43,Diabetes,Obese,3.8636363636363638,High,Middle-Aged
+9,89,62,20,79,22.5,0.142,33,No Diabetes,Normal,3.9555555555555557,Low,Middle-Aged
+10,101,76,48,180,32.9,0.171,63,No Diabetes,Obese,3.069908814589666,Medium,Old
+2,122,70,27,79,36.8,0.34,27,No Diabetes,Obese,3.315217391304348,Medium,Young
+5,121,72,23,112,26.2,0.245,30,No Diabetes,Overweight,4.618320610687023,Medium,Young
+1,126,60,20,79,30.1,0.349,47,Diabetes,Obese,4.186046511627906,Medium,Middle-Aged
+1,93,70,31,79,30.4,0.315,23,No Diabetes,Obese,3.05921052631579,Low,Young
